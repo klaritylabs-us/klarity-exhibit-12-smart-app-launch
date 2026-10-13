@@ -1,0 +1,1 @@
+{"client_id":"syn","redirect_uri":"https://app.example/cb","scope":"launch/patient","authorization_endpoint":"https://ehr.example/auth","token_endpoint":"https://ehr.example/token"}
